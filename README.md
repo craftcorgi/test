@@ -3,5 +3,5 @@
 > An awesome project wenqian.
 
 ```javascript
-const wenqian = 'love'
+const wenqian = 'lovewq'
 ```
